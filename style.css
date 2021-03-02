@@ -67,16 +67,11 @@ footer {
 }
 
 @media screen and (max-width:768px) {
-  header {
-    width: 100%;
-  }
+  
   
   main {
     width: 100%;
-    margin: 50px auto;
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-top:  50px;
+    margin-top: 50px;
     margin-bottom: 50px;
     display: block;
 
@@ -84,18 +79,17 @@ footer {
 
   .step-box {
     width: 90%;
-    margin-right: 20px;
-    margin-left: 20px;
-    margin-top:  50px;
+    margin-top: 50px;
     margin-bottom: 50px;
-    padding: 20px;
+    margin: 20px;
+    margin-left: 35px;
+    
+    
+    
+  
     position: relative;
     background-color: #eee;
   }
 
-  footer {
-    width: 100%;
-  }
-
- 
+  
 }
