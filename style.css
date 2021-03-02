@@ -68,28 +68,28 @@ footer {
 
 @media screen and (max-width:768px) {
   
-  
   main {
     width: 100%;
-    margin-top: 50px;
-    margin-bottom: 50px;
     display: block;
-
   }
 
   .step-box {
     width: 90%;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    margin: 20px;
-    margin-left: 35px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+  }
+  
+  
+    
     
     
     
   
-    position: relative;
-    background-color: #eee;
+    
+    
   }
 
+    
+ 
   
-}
+  }
