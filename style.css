@@ -23,9 +23,7 @@ main {
   background-color: #eee;
 }
 
-.step-box:last-child {
-  margin-right: 0;
-}
+
 
 .step-img1 {
   height: 150px;
@@ -66,43 +64,24 @@ footer {
   background-color: #aaa;
 }
 
-@media screen and (max-width:768px) {
-  
+@media screen and (max-width: 768px) {
   main {
     width: 100%;
     display: block;
+    
+   
+    
+    
+    
+
   }
 
   .step-box {
-    width: 90%;
     margin-bottom: 20px;
-    margin-left: 35px;
-    
-    
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+  
+  
   }
-
-  
-
-    
-  
-
-
-
-
-  
 }
- 
-
- 
-
-
-    
-    
-  
-       
-
-
-    
- 
-  
-  
